@@ -1,0 +1,23 @@
+{
+  "name": "eg1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sum.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulrojasg/github-actions-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulrojasg/github-actions-demo/issues"
+  },
+  "homepage": "https://github.com/paulrojasg/github-actions-demo#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
